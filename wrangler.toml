@@ -19,7 +19,7 @@ database_id = "ec08e77a-fd1e-4f12-9327-142eab97e4f6"
 
 [[r2_buckets]]
 binding = "BUCKET"
-bucket_name = "memos-assets"
+bucket_name = "cfmemos"
 
 # Optional KV cache. Create a namespace with:
 #   wrangler kv namespace create cfmemos-cache
